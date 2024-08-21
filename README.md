@@ -4,7 +4,9 @@ I hold a PhD in Physics Engineering with a focus on tackling astronomical data c
 <h3>When I code, I rely on</h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-black?logo=PyTorch" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
+
   
 </p>
 
