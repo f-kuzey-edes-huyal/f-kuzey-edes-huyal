@@ -1,5 +1,13 @@
 ## Hi I'm Kuzey 👋
 I hold a PhD in Physics Engineering with a focus on tackling astronomical data challenges using machine learning and deep learning techniques. I have a passion for working with difficult and diverse datasets. It is quite rewarding to deal with the challenges these datasets present and to come up with solutions by conducting the necessary research.
+
+<h3>When I code, I rely on</h3>
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
+  
+</p>
+
 <!--
 **f-kuzey-edes-huyal/f-kuzey-edes-huyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
