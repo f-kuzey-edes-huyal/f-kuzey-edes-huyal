@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I hold a PhD in Physics Engineering with a focus on tackling astronomical data challenges using machine learning and deep learning techniques. I have a passion for working with difficult and diverse datasets. It is quite rewarding to deal with the challenges these datasets present and to come up with solutions by conducting the necessary research.
 <!--
 **f-kuzey-edes-huyal/f-kuzey-edes-huyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
