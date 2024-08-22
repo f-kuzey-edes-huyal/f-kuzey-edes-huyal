@@ -12,7 +12,7 @@ I hold a PhD in Physics Engineering with a focus on tackling astronomical data c
   <img alt="scikit=learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&style=for-the-badge&logoColor=white" />
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 
-![Dask Badge](https://img.shields.io/badge/Dask-FC6E6B?logo=dask&logoColor=fff&style=flat)
+
 
 
   
