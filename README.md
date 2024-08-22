@@ -8,10 +8,11 @@ I hold a PhD in Physics Engineering with a focus on tackling astronomical data c
   <img alt="TensorFlow" src="https://img.shields.io/badge/Tensorflow-red?style=for-the-badge&logo=Tensorflow&logoColor=white" />
   <img alt="MySQL" src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=for-the-badge&logoColor=white&labelColor=blue" />
   <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?logo=pandas&style=for-the-badge&logoColor=fff" />
+  <img alt="dask" src="https://img.shields.io/badge/Dask-FC6E6B?logo=dask&style=for-the-badge&logoColor=fff" />
   <img alt="scikit=learn" src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&style=for-the-badge&logoColor=white" />
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 
-
+![Dask Badge](https://img.shields.io/badge/Dask-FC6E6B?logo=dask&logoColor=fff&style=flat)
 
 
   
